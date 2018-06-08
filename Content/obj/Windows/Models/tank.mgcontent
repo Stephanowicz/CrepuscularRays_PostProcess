@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/VS Projekts/XNA/Deferred Rendering/Randomchaos/Mono/CrepuscularRays_PostProcess/CrepuscularRays_PostProcess/Content/Models/tank.fbx</SourceFile>
+  <SourceTime>2018-06-07T14:02:13.6915038+02:00</SourceTime>
+  <DestFile>E:/VS Projekts/XNA/Deferred Rendering/Randomchaos/Mono/CrepuscularRays_PostProcess/CrepuscularRays_PostProcess/Content/bin/Windows/Models/tank.xnb</DestFile>
+  <DestTime>2018-06-07T14:10:17.2569979+02:00</DestTime>
+  <Importer>FbxImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>ModelProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>DefaultEffect</Key>
+    <Value>BasicEffect</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateTangentFrames</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyTextureAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyVertexColors</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeTexturesToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationX</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationY</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RotationZ</Key>
+    <Value>0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Scale</Key>
+    <Value>1</Value>
+  </Parameters>
+  <Parameters>
+    <Key>SwapWindingOrder</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset>
+    <string>E:/VS Projekts/XNA/Deferred Rendering/Randomchaos/Mono/CrepuscularRays_PostProcess/CrepuscularRays_PostProcess/Content/bin/Windows/turret_alt_diff_tex_0.xnb</string>
+    <string>E:/VS Projekts/XNA/Deferred Rendering/Randomchaos/Mono/CrepuscularRays_PostProcess/CrepuscularRays_PostProcess/Content/bin/Windows/engine_diff_tex_0.xnb</string>
+  </BuildAsset>
+  <BuildOutput />
+</PipelineBuildEvent>
